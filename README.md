@@ -1,5 +1,5 @@
 # Glow
 Adds an enchantment like glow to a hand held item
 
-##usage
+## Usage
 /glow to add the glow effect
