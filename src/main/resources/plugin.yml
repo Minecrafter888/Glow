@@ -1,0 +1,8 @@
+name: Glow
+version: '${project.version}'
+main: me.hephaestus.glow.Glow
+api-version: '1.20'
+commands:
+  Glow:
+    usage: /<command>
+    description: Adds a glow effect to items
